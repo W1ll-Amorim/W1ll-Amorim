@@ -71,7 +71,7 @@ O sistema monitora a luminosidade do ambiente e ativa automaticamente o modo de 
 - LEDs
 - Buzzer
 
-### [Gamer_Death_District](https://github.com/W1ll-Amorim/Gamer_Death_District)
+### [Gamer_Dead_District](https://github.com/W1ll-Amorim/Gamer_Dead_District)
 
 Jogo de plataforma 2D desenvolvido na Godot Engine com sistema de combate, dano flutuante, acumulo de score, inimigos com IA, sistema de vida, fase única com modo sobrevivência.
 
