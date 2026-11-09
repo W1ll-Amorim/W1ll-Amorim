@@ -52,7 +52,7 @@ Estudante e desenvolvedor em formação, explorando desenvolvimento web, APIs RE
 
 ### [Sistema_agendamento](https://github.com/W1ll-Amorim/Sistema_agendamento)
 
-Aplicação web CRUD com autenticação, integração entre front-end e back-end e automações agendadas.
+Sistema web de agendamento e gerenciamento de tarefas estruturado em arquitetura robusta com FastAPI, PostgreSQL, Alembic e Docker, oferecendo controle de acesso baseado em perfis (Comum, Técnico e Administrador), temas personalizados e alta escalabilidade.
 
 #### Tecnologias
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
